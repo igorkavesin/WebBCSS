@@ -1,5 +1,0 @@
-<?php
-
-// connexion BD
-
-?>
